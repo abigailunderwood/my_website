@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Abigail Underwood MSW, LSW
+title: Abigail Underwood
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student and Graduate Research Associate
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
