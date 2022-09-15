@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abigail Underwood MSW, LSW
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student and Graduate Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Ohio State University, College of Social Work 
+    url: https://csw.osu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reproductive health, feminist social work, population health, systems dynamics and community-based methodologies. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reproductive Justice
+  - Systems Dynamics 
+  - Community-Based Methodologies 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Social Work (in progress)
+      institution: The Ohio State University 
+      year: 2025
+    - course: Masters in Social Work 
+      institution: The Ohio State University 
+      year: 2020
+    - course: BA in Latin American Studies and Urban Studies
+      institution: Washington University in St. Louis
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
