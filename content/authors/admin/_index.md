@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Student in the College of Social Work at The Ohio State Univeristy, currently in my second year of the program. My research interests include reproductive health, feminist social work, community-based methodologies, systems and population health. Currently I am working with Dr. Alicia Bunger on an implementation science project for an intervention that provides contraceptive counseling to teens in psychiatric care.  Additionally, I am working with Dr. Ayaz Hyder on a Community-Based Systems Dynamics project to understand how housing policy and structural racism affect birth outcomes in Linden, a neighborhood in Columbus, Ohio. I am a Health Policy Research Scholar with the Robert Wood Johnson Foundation. I also serve as the President of my college's doctoral student organization. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed her Masters of Social Work in 2020 and obtained my social work license.  Afterward, I worked as a Functional Family Therapist with adolescents and their families.  Prior to my MSW, I earned my BA in Latin American Studies and Urban Studies from Washington University in St. Louis.  When I am not studying or working on research, I spends time with my baby, Teddy, and my husband, Winston. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
