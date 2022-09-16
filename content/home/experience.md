@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Graduate Research Associate
+    company: The Ohio State University
+    company_url: ''
+    company_logo:
+    location: Columbus, OH
+    date_start: '2019-01-01'
+    date_end: ''
+    description: GRA experience in Public Health and Social Work 
+
   - title: Functional Family Therapist
     company: The Buckeye Ranch
     company_url: ''
@@ -35,15 +45,6 @@ experience:
         * Providing evidence-based treatment to adolescents and their families. 
         * Collaborating with collateral providers. 
         * Documenting treatment and case management. 
-
-  - title: Graduate Research Associate
-    company: The Ohio State University
-    company_url: ''
-    company_logo:
-    location: Columbus, OH
-    date_start: '2019-01-01'
-    date_end: ''
-    description: GRA experience in Public Health and Social Work 
 
 design:
   columns: '2'
