@@ -14,12 +14,13 @@ organizations:
     url: https://csw.osu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproductive health, feminist social work, population health, systems dynamics and community-based methodologies. 
+bio: I am a social work researcher committed to improving reproductive health and family wellbeing through policy, community-based methodologies and systems thinking. 
 
 # Interests to show in About widget
 interests:
   - Reproductive Justice
-  - Systems Dynamics 
+  - Systems Thinking
+  - Population Health
   - Community-Based Methodologies 
 
 # Education to show in About widget
