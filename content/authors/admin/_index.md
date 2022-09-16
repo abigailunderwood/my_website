@@ -72,4 +72,3 @@ I am a PhD Student in the College of Social Work at The Ohio State Univeristy, c
 
 I completed my Master of Social Work in 2020 and obtained my social work license.  Afterward, I worked as a Functional Family Therapist with adolescents and their families.  Prior to my MSW, I earned my BA in Latin American Studies and Urban Studies from Washington University in St. Louis.  When I am not studying or working on research, I spend time with my baby, Teddy, and my husband, Winston. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
