@@ -38,10 +38,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-Custom links (uncomment lines below)
- links:
- - name: See the Publication
-   url: 'https://muse.jhu.edu/article/864410'
+# Custom links (uncomment lines below)
+#  links:
+#  - name: See the Publication
+#    url: 'https://muse.jhu.edu/article/864410'
 
 url_pdf: ''
 url_code: ''
