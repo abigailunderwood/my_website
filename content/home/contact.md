@@ -37,11 +37,11 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  #directions: 
-  #office_hours:
-    - 
-    - 
-  #appointment_url: 
+  directions: 
+  # #office_hours:
+  #   - 
+  #   - 
+  # #appointment_url: 
   contact_links:
     - icon: twitter
       icon_pack: fab
