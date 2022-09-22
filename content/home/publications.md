@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 'Community-based Systems Dynamics for Reproductive Health: An Example for Urban Ohio'
-subtitle: ''
+title: 'Community-based Systems Dynamics for Reproductive Health'
+subtitle: 'An Example from Urban Ohio'
 
 content:
   # Filter on criteria
