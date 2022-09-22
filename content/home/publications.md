@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: 'Community-based Systems Dynamics for Reproductive Health: An Example for Urban Ohio'
 subtitle: ''
 
 content:
