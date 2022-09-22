@@ -28,10 +28,10 @@ content:
   email: underwood.309@osu.edu
   phone: 
   address:
-    #street: 
+    street: 
     city: Columbus
     region: Ohio
-    #postcode: 
+    postcode: 
     country: United States
     country_code: US
   coordinates:
