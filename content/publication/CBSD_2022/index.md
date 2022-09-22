@@ -43,7 +43,7 @@ featured: true
 #  - name: See the Publication
 #    url: 'https://muse.jhu.edu/article/864410'
 
-url_pdf: '/CommunityBasedSystemsDynamicsforRH.pdf'
+url_pdf: 'publication/cbsd_2022/CommunityBasedSystemsDynamicsforRH.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
