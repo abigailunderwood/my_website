@@ -28,13 +28,7 @@ publication_types: ['2']
 publication: In Progress in Community Health Partnerships
 #publication_short: In PCHP
 
-abstract: *Objectives* To describe and share lessons learned from an ongoing application of a participatory modeling approach (community-based system dynamics) that aims to eliminate racial inequities in Black-White reproductive health outcomes.
-
-*Methods* The community-based system dynamics approach involves conducting complementary activities, workshops, modeling, and dissemination. We organized workshops, co-developed a causal loop diagram of the reproductive health system with participants from the community, and created materials to disseminate workshop findings and preliminary models.
-
-*Lessons* learned Many opportunities exist for cross-fertilization of best practices between community-based system dynamics and community-based participatory research. Shared learning environments offer benefits for modelers and domain experts alike. Additionally, identifying local champions from the community helps manage group dynamics.
-
-*Conclusions* Community-based system dynamics is well-suited for understanding complexity in the reproductive health system. It allows participants from diverse perspectives to identify strategies to eliminate racial inequities in reproductive health outcomes.
+abstract: Objectives To describe and share lessons learned from an ongoing application of a participatory modeling approach (community-based system dynamics) that aims to eliminate racial inequities in Black-White reproductive health outcomes. Methods The community-based system dynamics approach involves conducting complementary activities, workshops, modeling, and dissemination. We organized workshops, co-developed a causal loop diagram of the reproductive health system with participants from the community, and created materials to disseminate workshop findings and preliminary models. Lessons learned Many opportunities exist for cross-fertilization of best practices between community-based system dynamics and community-based participatory research. Shared learning environments offer benefits for modelers and domain experts alike. Additionally, identifying local champions from the community helps manage group dynamics. Conclusions Community-based system dynamics is well-suited for understanding complexity in the reproductive health system. It allows participants from diverse perspectives to identify strategies to eliminate racial inequities in reproductive health outcomes.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
