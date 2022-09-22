@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Community-based Systems Dynamics for Reproductive Health: An Example from Urban Ohio'
 
 # Authors
@@ -85,3 +85,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ -->
