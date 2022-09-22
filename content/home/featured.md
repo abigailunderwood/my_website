@@ -1,7 +1,10 @@
-<!-- ---
+---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+
+# Activate this widget? True/false
+active: false
 
 # This file represents a page section.
 headless: true
@@ -34,4 +37,3 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
- -->
