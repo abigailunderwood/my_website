@@ -28,20 +28,20 @@ content:
   email: underwood.309@osu.edu
   phone: 
   address:
-    street: 
+    #street: 
     city: Columbus
     region: Ohio
-    postcode: 
+    #postcode: 
     country: United States
     country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: 
-  office_hours:
+  #directions: 
+  #office_hours:
     - 
     - 
-  appointment_url: 
+  #appointment_url: 
   contact_links:
     - icon: twitter
       icon_pack: fab
