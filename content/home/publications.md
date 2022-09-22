@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 'Community-based Systems Dynamics for Reproductive Health'
-subtitle: 'An Example from Urban Ohio'
+title: 'Publications'
+subtitle: ''
 
 content:
   # Filter on criteria
@@ -36,6 +36,7 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+ -->
