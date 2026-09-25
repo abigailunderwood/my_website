@@ -34,6 +34,6 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://myfcph.org/chip_1/'
+url_source: ''
 url_video: ''
 ---
