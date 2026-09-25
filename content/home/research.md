@@ -10,11 +10,16 @@ headless: true
 weight: 30
 
 title: Research
-subtitle: 'Dissertation: contraception care for adolescents with mental health disorders'
+subtitle: 'Dissertation'
 
 design:
   columns: '2'
 ---
+
+<div class="dissertation-header">
+  <p class="dissertation-title">Examining Access to Contraception Care for Adolescents with Mental Health Conditions: An Application of the Contraceptive Access Conceptual Framework</p>
+  <p class="dissertation-meta"><span class="dissertation-badge">✓ Proposal approved</span> PhD in Social Work, The Ohio State University · Expected May 2027</p>
+</div>
 
 Adolescents are facing concurrent crises: rising rates of poor mental health and, in some regions of the United States, increasingly constrained access to sexual and reproductive health care. Sexual health and mental health are both emerging, critical domains of adolescent wellness, yet little is known about the bidirectional relationship between them or how it shapes sexual health–promoting behaviors.
 

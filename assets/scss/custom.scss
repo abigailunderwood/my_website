@@ -490,3 +490,57 @@ h1, h2, h3, h4, h5, h6,
 .dark #research .col-lg-8 p > strong:first-child {
   color: $tw-cream;
 }
+
+/* ---------- Research: dissertation title block ---------- */
+
+#research .dissertation-header {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px dashed rgba(1, 62, 63, 0.2);
+}
+
+#research .col-lg-8 p.dissertation-title {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  font-size: 1.35rem;
+  line-height: 1.35;
+  color: $tw-ink;
+  margin-bottom: 0.75rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  box-shadow: none;
+}
+
+#research .col-lg-8 p.dissertation-meta {
+  font-size: 0.85rem;
+  color: $tw-teal;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  box-shadow: none;
+}
+
+#research .dissertation-badge {
+  display: inline-block;
+  margin-right: 0.6rem;
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  background: $tw-salmon;
+  color: $tw-ink;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.dark #research .dissertation-header {
+  border-bottom-color: rgba(240, 227, 219, 0.2);
+}
+
+.dark #research .col-lg-8 p.dissertation-title {
+  color: $tw-cream;
+}
+
+.dark #research .col-lg-8 p.dissertation-meta {
+  color: $tw-salmon;
+}
