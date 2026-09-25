@@ -24,6 +24,8 @@ publication_short: '*Workplace Health & Safety*'
 
 abstract: ''
 
+summary: 'A 2021 survey of Ohio health care professionals on their awareness and use of Employee Assistance Programs and Professional Health Programs during the COVID-19 pandemic. Fewer than a quarter had used these supports; barriers included limited awareness, time commitment, and confidentiality concerns. The authors recommend comprehensive wellness programs and brief intervention strategies to address burnout.'
+
 tags: []
 
 featured: false
@@ -37,3 +39,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+A 2021 survey of Ohio health care professionals on their awareness and use of Employee Assistance Programs and Professional Health Programs during the COVID-19 pandemic. Fewer than a quarter had used these supports; barriers included limited awareness, time commitment, and confidentiality concerns. The authors recommend comprehensive wellness programs and brief intervention strategies to address burnout.

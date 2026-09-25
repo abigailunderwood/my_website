@@ -25,6 +25,8 @@ publication_short: '*Perspectives on Sexual and Reproductive Health*'
 
 abstract: ''
 
+summary: 'A qualitative study of an intervention that offers adolescents a same-day contraceptive consultation with an adolescent medicine provider during an existing outpatient psychiatry appointment. Focus groups and interviews with adolescents, parents and caregivers, and psychiatry clinicians and nurses explored the intervention''s acceptability and what would be needed to implement it, guided by the Consolidated Framework for Implementation Research.'
+
 tags: []
 
 featured: false
@@ -38,3 +40,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+A qualitative study of an intervention that offers adolescents a same-day contraceptive consultation with an adolescent medicine provider during an existing outpatient psychiatry appointment. Focus groups and interviews with adolescents, parents and caregivers, and psychiatry clinicians and nurses explored the intervention's acceptability and what would be needed to implement it, guided by the Consolidated Framework for Implementation Research.
