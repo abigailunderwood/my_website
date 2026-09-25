@@ -13,7 +13,7 @@ authors:
   #- 'Equal contribution'
 
 date: '2022-08-11T00:00:00Z'
-doi: 'doi.org/10.1177/08861099221119460'
+doi: '10.1177/08861099221119460'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -43,7 +43,7 @@ featured: true
 #  - name: See the Publication
 #    url: 'https://muse.jhu.edu/article/864410'
 
-url_pdf: 'publication/BookReview/BookReview_AU.pdf'
+url_pdf: 'publication/bookreview/BookReview_AU.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
