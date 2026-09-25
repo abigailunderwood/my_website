@@ -6,7 +6,7 @@ title: Abigail Underwood
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Social Work (in progress)
-      institution: The Ohio State University 
-      year: 2025
+    - course: PhD in Social Work (expected)
+      institution: The Ohio State University
+      year: 2027
     - course: Masters in Social Work 
       institution: The Ohio State University 
       year: 2020
@@ -68,7 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD Student in the [College of Social Work at The Ohio State Univeristy](https://csw.osu.edu/), currently in my second year of the program. My research interests include reproductive health, feminist social work, community-based methodologies, systems and population health. Currently I am working with [Dr. Alicia Bunger](https://csw.osu.edu/about/faculty-staff/faculty-directory/bunger-alicia-ph-d/) on an implementation science project for an intervention that provides contraceptive counseling to teens in psychiatric care.  Additionally, I am working with [Dr. Ayaz Hyder](https://cph.osu.edu/people/ahyder) on a Community-Based Systems Dynamics project to understand how housing policy and structural racism affect birth outcomes in Linden, a neighborhood in Columbus, Ohio. I am a [Health Policy Research Scholar](https://healthpolicyresearch-scholars.org/) with the [Robert Wood Johnson Foundation](www.rwjf.org). I also serve as the President of my college's doctoral student organization. 
+I am a PhD candidate in the [College of Social Work at The Ohio State University](https://csw.osu.edu/) and a [Health Policy Research Scholar](https://healthpolicyresearch-scholars.org/meetthescholars/abigail-underwood/) with the [Robert Wood Johnson Foundation](https://www.rwjf.org). My research focuses on adolescent sexual and reproductive health, access to reproductive health care, and the impact of health policy, using mixed methods and community-based participatory approaches.
 
-I completed my Master of Social Work in 2020 and obtained my social work [license](https://elicense.ohio.gov/oh_verifylicensedetails?pid=a0Rt00000025o0mEAA).  Afterward, I worked as a Functional Family Therapist with adolescents and their families.  Prior to my MSW, I earned my BA in Latin American Studies and Urban Studies from Washington University in St. Louis.  When I am not studying or working on research, I spend time with my baby, Teddy, and my husband, [Winston](https://winstonunderwood.com/). 
+I currently work with [Dr. Alicia Bunger](https://csw.osu.edu/about/faculty-staff/faculty-directory/bunger-alicia-ph-d/) at the Ohio State University Wexner Medical Center on implementation research, including a study adapting the NIMH suicide risk screening clinical pathway for school-based health centers in rural Appalachia. My earlier research includes implementation studies of contraceptive care for adolescents in psychiatric care with Dr. Elise Berlan at Nationwide Children's Hospital, analyses of the Ohio Survey of Women with the Ohio Policy Evaluation Network, and community-based system dynamics modeling of reproductive health in Columbus. I also teach undergraduate social work courses and received the College of Social Work's 2026 Doctoral Student Excellence in Teaching Award.
 
+I completed my Master of Social Work in 2020 and obtained my social work [license](https://elicense.ohio.gov/oh_verifylicensedetails?pid=a0Rt00000025o0mEAA). Afterward, I worked as a Functional Family Therapist with adolescents and their families. Prior to my MSW, I earned my BA in Latin American Studies and Urban Studies from Washington University in St. Louis. When I am not studying or working on research, I spend time with my two children and my husband, [Winston](https://winstonunderwood.com/).
