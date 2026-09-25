@@ -544,3 +544,26 @@ h1, h2, h3, h4, h5, h6,
 .dark #research .col-lg-8 p.dissertation-meta {
   color: $tw-salmon;
 }
+
+/* ---------- Contact: intro text and link list ---------- */
+
+.wg-contact .col-lg-8 > p {
+  color: $tw-cream;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin-bottom: 1.75rem;
+  max-width: 38rem;
+}
+
+.wg-contact .fa-ul li {
+  margin-bottom: 0.9rem;
+}
+
+.wg-contact .fa-ul a {
+  color: $tw-salmon;
+  font-weight: 500;
+}
+
+.wg-contact .fa-ul a:hover {
+  color: $tw-cream;
+}
