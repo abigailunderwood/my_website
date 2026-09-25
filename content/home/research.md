@@ -20,7 +20,7 @@ Adolescents are facing concurrent crises: rising rates of poor mental health and
 
 My dissertation addresses this gap by examining patterns, preferences, attitudes, and experiences with contraception care among adolescents assigned female at birth (AFAB) with mental health disorders. Grounded in the Theory of Planned Behavior and the Contraceptive Access Conceptual Framework (CACF), the study uses multiple methods:
 
-**Aim 1 · Subgroups and contraception use.** Using survey data from 431 adolescents AFAB hospitalized for psychiatric treatment, I conduct a latent class analysis to identify subgroups based on sexual history and contraception knowledge, beliefs, and attitudes, then test how these subgroups relate to contraception use.
+**Aim 1 · Subgroups and contraception use.** Using survey data from 451 adolescents AFAB hospitalized for psychiatric treatment, I conduct a latent class analysis to identify subgroups based on sexual history and contraception knowledge, beliefs, and attitudes, then test how these subgroups relate to contraception use.
 
 **Aim 2 · Adolescent perspectives.** Focus groups with adolescents AFAB with mental health disorders explore how they see the relationship between mental health and access to contraception. Transcripts are analyzed thematically alongside an a priori codebook grounded in the CACF.
 
