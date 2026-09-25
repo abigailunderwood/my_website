@@ -1,0 +1,36 @@
+# Custom color theme built from the palette at https://icolorpalette.com/p/602800
+#   #013E3F deep teal · #056A6A teal · #FDB3B4 salmon · #F0E3DB warm cream · #E2BAAC dusty rose
+name = "Tidewater"
+font = "editorial"
+
+[light]
+  primary = "#056A6A"
+
+  menu_primary = "rgba(251, 246, 242, 0.92)"
+  menu_text = "#013E3F"
+  menu_text_active = "#056A6A"
+  menu_title = "#013E3F"
+
+  link = "#056A6A"
+  link_hover = "#013E3F"
+  link_decoration = "none"
+
+  background = "#FBF6F2"
+  home_section_odd = "#FBF6F2"
+  home_section_even = "#F0E3DB"
+
+[dark]
+  primary = "#FDB3B4"
+
+  menu_primary = "rgba(1, 42, 43, 0.94)"
+  menu_text = "#F0E3DB"
+  menu_text_active = "#FDB3B4"
+  menu_title = "#F0E3DB"
+
+  link = "#FDB3B4"
+  link_hover = "#F0E3DB"
+  link_decoration = "none"
+
+  background = "#012A2B"
+  home_section_odd = "#012A2B"
+  home_section_even = "#013E3F"

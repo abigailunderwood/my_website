@@ -1,0 +1,462 @@
+/*************************************************
+ * Tidewater — custom styling for abigailunderwood.com
+ * Palette: https://icolorpalette.com/p/602800
+ **************************************************/
+
+$tw-ink: #013E3F;      // deep teal (text, headings, footer)
+$tw-teal: #056A6A;     // teal (links, primary)
+$tw-salmon: #FDB3B4;   // salmon (accents)
+$tw-cream: #F0E3DB;    // warm cream (alternate sections)
+$tw-rose: #E2BAAC;     // dusty rose (secondary accents)
+$tw-paper: #FBF6F2;    // lightened cream (page background)
+$tw-body: #22393A;     // readable body text
+
+/* ---------- Base typography ---------- */
+
+body {
+  color: $tw-body;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6,
+.section-heading h1,
+.article-title,
+.portrait-title h2 {
+  color: $tw-ink;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.article-style p,
+.article-style li {
+  line-height: 1.75;
+}
+
+::selection {
+  background: $tw-salmon;
+  color: $tw-ink;
+}
+
+/* ---------- Navigation ---------- */
+
+.navbar {
+  backdrop-filter: saturate(140%) blur(10px);
+  -webkit-backdrop-filter: saturate(140%) blur(10px);
+  box-shadow: none !important;
+  border-bottom: 1px solid rgba(1, 62, 63, 0.08);
+}
+
+.navbar-brand {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav > .nav-item > .nav-link {
+  position: relative;
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav > .nav-item > .nav-link.active::after,
+.navbar-light .navbar-nav > .nav-item > .nav-link:hover::after {
+  content: '';
+  position: absolute;
+  left: 0.5rem;
+  right: 0.5rem;
+  bottom: 0.2rem;
+  height: 3px;
+  border-radius: 3px;
+  background: $tw-salmon;
+}
+
+/* ---------- Links ---------- */
+
+.article-style a,
+.card-text a,
+.ul-edu a {
+  text-decoration: none;
+  background-image: linear-gradient(to top, rgba(253, 179, 180, 0.55) 0.32em, transparent 0.32em);
+  transition: background-size 0.2s ease;
+}
+
+.article-style a:hover,
+.card-text a:hover {
+  background-image: linear-gradient(to top, rgba(253, 179, 180, 0.85) 100%, transparent 0);
+}
+
+/* ---------- Section headings: serif title with a brushstroke underline ---------- */
+
+.home-section {
+  padding: 90px 0;
+}
+
+.section-heading h1 {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.6rem;
+}
+
+.section-heading h1::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 3.25rem;
+  height: 6px;
+  border-radius: 6px 12px 6px 12px;
+  background: linear-gradient(90deg, $tw-salmon 0%, $tw-rose 100%);
+  transform: rotate(-1.5deg);
+}
+
+@media (max-width: 991.98px) {
+  .section-heading h1::after {
+    left: 50%;
+    margin-left: -1.625rem;
+  }
+}
+
+.section-heading p,
+.section-subheading {
+  color: $tw-teal;
+}
+
+/* ---------- About: portrait framed by soft organic shapes ---------- */
+
+.wg-about {
+  position: relative;
+  overflow: hidden;
+}
+
+.wg-about::before,
+.wg-about::after {
+  content: '';
+  position: absolute;
+  z-index: 0;
+  pointer-events: none;
+  border-radius: 42% 58% 63% 37% / 45% 40% 60% 55%;
+}
+
+.wg-about::before {
+  width: 520px;
+  height: 520px;
+  top: -180px;
+  left: -200px;
+  background: radial-gradient(circle at 30% 30%, rgba(253, 179, 180, 0.55), rgba(226, 186, 172, 0.25) 70%);
+}
+
+.wg-about::after {
+  width: 380px;
+  height: 380px;
+  bottom: -160px;
+  right: -120px;
+  background: radial-gradient(circle at 60% 40%, rgba(5, 106, 106, 0.16), rgba(1, 62, 63, 0.05) 70%);
+  border-radius: 58% 42% 37% 63% / 55% 60% 40% 45%;
+}
+
+.wg-about .container,
+.wg-about .row {
+  position: relative;
+  z-index: 1;
+}
+
+.wg-about .avatar {
+  border: 8px solid $tw-paper;
+  box-shadow: 14px 14px 0 0 $tw-salmon, 0 18px 40px rgba(1, 62, 63, 0.18);
+}
+
+.portrait-title h2 {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+
+.portrait-title h3 {
+  color: $tw-teal;
+}
+
+.network-icon .big-icon {
+  color: $tw-teal;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.network-icon a:hover .big-icon {
+  color: $tw-ink;
+  transform: translateY(-2px);
+}
+
+.ul-edu .fa-li {
+  color: $tw-teal;
+}
+
+/* ---------- Cards (Experience, Fellowships & Awards) ---------- */
+
+.card {
+  background: #fff;
+  border: 1px solid rgba(1, 62, 63, 0.08);
+  border-radius: 14px;
+  box-shadow: 0 6px 22px rgba(1, 62, 63, 0.06);
+}
+
+.card.experience {
+  border-left: 4px solid $tw-salmon;
+}
+
+.experience .card-text,
+.experience .card-text p,
+.experience .card-text li {
+  color: $tw-body !important;
+  font-size: 0.8rem !important;
+  line-height: 1.6;
+}
+
+.exp-title,
+.card-title {
+  color: $tw-ink !important;
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+}
+
+.experience .m-2 .border,
+.experience .col.border-right {
+  border-color: $tw-teal !important;
+}
+
+.experience .m-2 .border.exp-fill {
+  background-color: $tw-salmon !important;
+  border-color: $tw-salmon !important;
+}
+
+/* ---------- Publications ---------- */
+
+.pub-list-item {
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px dashed rgba(1, 62, 63, 0.15);
+}
+
+.pub-list-item:last-child {
+  border-bottom: 0;
+}
+
+.pub-list-item .pub-icon {
+  color: $tw-rose;
+}
+
+.btn-outline-primary {
+  color: $tw-teal;
+  border-color: rgba(5, 106, 106, 0.45);
+  border-radius: 999px;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  color: #fff;
+  background-color: $tw-teal;
+  border-color: $tw-teal;
+}
+
+.btn-primary {
+  background-color: $tw-teal;
+  border-color: $tw-teal;
+  border-radius: 999px;
+}
+
+.btn-primary:hover {
+  background-color: $tw-ink;
+  border-color: $tw-ink;
+}
+
+/* ---------- Presentations & Teaching (text sections) ---------- */
+
+#presentations .col-lg-8 p,
+#teaching .col-lg-8 p {
+  padding-left: 1rem;
+  border-left: 3px solid rgba(253, 179, 180, 0.7);
+}
+
+#teaching .col-lg-8 p:last-child {
+  border-left: 0;
+  padding: 1rem 1.25rem;
+  background: rgba(253, 179, 180, 0.22);
+  border-radius: 12px;
+}
+
+/* ---------- Contact & footer: deep teal band ---------- */
+
+.wg-contact {
+  background: $tw-ink !important;
+  color: $tw-cream;
+}
+
+.wg-contact h1,
+.wg-contact .section-heading h1 {
+  color: $tw-cream;
+}
+
+.wg-contact a,
+.wg-contact .fa-envelope,
+.wg-contact .fa-map-marker,
+.wg-contact i {
+  color: $tw-salmon;
+}
+
+.wg-contact .form-control {
+  background: rgba(240, 227, 219, 0.08);
+  border: 1px solid rgba(240, 227, 219, 0.3);
+  color: $tw-cream;
+  border-radius: 10px;
+}
+
+.wg-contact .form-control::placeholder {
+  color: rgba(240, 227, 219, 0.6);
+}
+
+.wg-contact .btn-outline-primary {
+  color: $tw-ink;
+  background: $tw-salmon;
+  border-color: $tw-salmon;
+}
+
+.wg-contact .btn-outline-primary:hover {
+  background: $tw-cream;
+  border-color: $tw-cream;
+  color: $tw-ink;
+}
+
+.page-footer {
+  background: $tw-ink;
+  border-top: 1px solid rgba(240, 227, 219, 0.12);
+}
+
+.site-footer,
+.site-footer p,
+.site-footer .powered-by {
+  color: rgba(240, 227, 219, 0.75);
+}
+
+.site-footer a {
+  color: $tw-salmon;
+}
+
+/* ---------- Dark mode ---------- */
+
+.dark {
+  color: #E9DDD5;
+
+  h1, h2, h3, h4, h5, h6,
+  .section-heading h1,
+  .article-title,
+  .portrait-title h2,
+  .exp-title,
+  .card-title {
+    color: $tw-cream !important;
+  }
+
+  .section-heading p,
+  .section-subheading,
+  .portrait-title h3,
+  .network-icon .big-icon,
+  .ul-edu .fa-li {
+    color: $tw-salmon;
+  }
+
+  .navbar {
+    border-bottom-color: rgba(240, 227, 219, 0.1);
+  }
+
+  .wg-about::before {
+    background: radial-gradient(circle at 30% 30%, rgba(253, 179, 180, 0.22), rgba(226, 186, 172, 0.06) 70%);
+  }
+
+  .wg-about::after {
+    background: radial-gradient(circle at 60% 40%, rgba(5, 106, 106, 0.45), rgba(1, 62, 63, 0.1) 70%);
+  }
+
+  .wg-about .avatar {
+    border-color: #012A2B;
+  }
+
+  .card {
+    background: rgba(240, 227, 219, 0.05);
+    border-color: rgba(240, 227, 219, 0.12);
+    box-shadow: none;
+  }
+
+  .experience .card-text,
+  .experience .card-text p,
+  .experience .card-text li {
+    color: #E9DDD5 !important;
+  }
+
+  .pub-list-item {
+    border-bottom-color: rgba(240, 227, 219, 0.15);
+  }
+
+  .btn-outline-primary {
+    color: $tw-salmon;
+    border-color: rgba(253, 179, 180, 0.5);
+  }
+
+  .btn-outline-primary:hover {
+    color: $tw-ink;
+    background-color: $tw-salmon;
+    border-color: $tw-salmon;
+  }
+
+  #teaching .col-lg-8 p:last-child {
+    background: rgba(253, 179, 180, 0.1);
+  }
+
+  .wg-contact {
+    background: #011E1F !important;
+  }
+
+  .page-footer {
+    background: #011E1F;
+  }
+}
+
+/* ---------- Contrast fixes ---------- */
+
+.wg-contact .btn,
+.wg-contact .btn-primary {
+  color: $tw-ink;
+  background: $tw-salmon;
+  border-color: $tw-salmon;
+  font-weight: 600;
+}
+
+.wg-contact .btn:hover,
+.wg-contact .btn-primary:hover {
+  color: $tw-ink;
+  background: $tw-cream;
+  border-color: $tw-cream;
+}
+
+.card-subtitle a,
+.experience .card-subtitle a {
+  color: $tw-teal;
+}
+
+.dark .card-subtitle a,
+.dark .experience .card-subtitle a,
+.dark .card-subtitle {
+  color: $tw-salmon !important;
+}
+
+.dark .experience .m-2 .border,
+.dark .experience .col.border-right {
+  border-color: rgba(253, 179, 180, 0.55) !important;
+}
+
+.exp-company,
+.exp-company a {
+  color: $tw-teal !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+}
+
+.dark .exp-company,
+.dark .exp-company a {
+  color: $tw-salmon !important;
+}
