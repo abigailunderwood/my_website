@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: tidewater
+  theme_night: tidewater
+  font: editorial
+  font_size: M
 
 # SEO
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'An academic website for Abigail Underwood.'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: 'G-TLTNJ30TP5'
     baidu_tongji: ''
