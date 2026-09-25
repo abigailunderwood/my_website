@@ -460,3 +460,33 @@ h1, h2, h3, h4, h5, h6,
 .dark .exp-company a {
   color: $tw-salmon !important;
 }
+
+/* ---------- Research section: aims as cards ---------- */
+
+#research .col-lg-8 p:has(> strong:first-child) {
+  background: #fff;
+  border: 1px solid rgba(1, 62, 63, 0.08);
+  border-left: 4px solid $tw-salmon;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 6px 22px rgba(1, 62, 63, 0.05);
+}
+
+#research .col-lg-8 p > strong:first-child {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  color: $tw-ink;
+  margin-bottom: 0.25rem;
+}
+
+.dark #research .col-lg-8 p:has(> strong:first-child) {
+  background: rgba(240, 227, 219, 0.05);
+  border-color: rgba(240, 227, 219, 0.12);
+  border-left-color: $tw-salmon;
+  box-shadow: none;
+}
+
+.dark #research .col-lg-8 p > strong:first-child {
+  color: $tw-cream;
+}

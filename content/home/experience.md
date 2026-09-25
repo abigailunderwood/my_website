@@ -36,6 +36,16 @@ experience:
         * **Suicide risk screening in rural Appalachian school-based health centers** (NIMH): adapting and implementing the NIMH Clinical Pathway. Qualitative interviews with providers, parent–child surveys, electronic health record data, and quality improvement meetings.
         * **Cross-system interventions with peer mentors (COSTARs)** (NIDA): staffing and supports for cross-system programs. Grant preparation, focus groups, qualitative analysis, and survey data collection.
 
+  - title: Research and Evaluation Assistant
+    company: Mighty Crow Media, LLC
+    company_url: ''
+    company_logo:
+    location: Columbus, OH
+    date_start: '2023-05-01'
+    date_end: ''
+    description: |2-
+        Support applied research and evaluation projects through literature review, data analysis, manuscript preparation, and writing, including contributing to the Franklin County Community Health Improvement Plan 2023–2026.
+
   - title: Graduate Research Associate
     company: Ohio Policy Evaluation Network (OPEN)
     company_url: 'https://open.osu.edu'

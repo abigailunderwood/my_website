@@ -26,6 +26,8 @@ publication_short: '*Perspectives on Sexual and Reproductive Health*'
 
 abstract: ''
 
+summary: 'Using the Ohio Survey of Women, a state-representative survey of adult women of reproductive age conducted in 2022–2023, this study examines how well women in Ohio understood the legal status of abortion and related reproductive health practices after Dobbs. Many respondents were mistaken or unsure about whether abortion was legal, misconceptions were more common than in pre-Dobbs data, and substantial shares were unsure about the legality of assisted reproduction, interstate travel for care, and miscarriage care.'
+
 tags: []
 
 featured: false
@@ -39,3 +41,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+Using the Ohio Survey of Women, a state-representative survey of adult women of reproductive age conducted in 2022–2023, this study examines how well women in Ohio understood the legal status of abortion and related reproductive health practices after *Dobbs*. Many respondents were mistaken or unsure about whether abortion was legal, misconceptions were more common than in pre-*Dobbs* data, and substantial shares were unsure about the legality of assisted reproduction, interstate travel for care, and miscarriage care.

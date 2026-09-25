@@ -14,14 +14,16 @@ organizations:
     url: https://csw.osu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a social work researcher committed to improving reproductive health and family wellbeing through policy, community-based methodologies and systems thinking. 
+bio: I am a social work researcher studying adolescent sexual and reproductive health, access to contraception, and the impact of health policy.
 
 # Interests to show in About widget
 interests:
-  - Reproductive Justice
+  - Adolescent Sexual & Reproductive Health
+  - Access to Contraception & Reproductive Health Care
+  - Adolescent Mental Health
+  - Health Policy & Health Equity
+  - Community-Based Participatory Research
   - Systems Thinking
-  - Population Health
-  - Community-Based Methodologies 
 
 # Education to show in About widget
 education:
@@ -50,6 +52,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/abigail-underwood-msw-lsw-a67341187/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=L2gm8tkAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9820-2406
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

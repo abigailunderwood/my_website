@@ -28,6 +28,8 @@ publication_short: '*Global Implementation Research and Applications*'
 
 abstract: ''
 
+summary: 'Describes a three-stage process for developing an implementation blueprint to scale up contraception care for adolescents in a pediatric psychiatric hospital: convening a 41-member research advisory board and conducting formative evaluation, tracking implementation activities over 18 months, and producing a final blueprint of 16 goals and 16 implementation strategies. The project champion played a key role in turning the plan into action.'
+
 tags: []
 
 featured: false
@@ -41,3 +43,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
+
+Describes a three-stage process for developing an implementation blueprint to scale up contraception care for adolescents in a pediatric psychiatric hospital: convening a 41-member research advisory board and conducting formative evaluation, tracking implementation activities over 18 months, and producing a final blueprint of 16 goals and 16 implementation strategies. The project champion played a key role in turning the plan into action.
