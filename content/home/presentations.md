@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 95
+weight: 36
 
 title: Presentations
 subtitle: ''

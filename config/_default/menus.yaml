@@ -18,10 +18,10 @@ main:
     weight: 25
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 17
   - name: Presentations
     url: '#presentations'
-    weight: 35
+    weight: 18
   - name: Contact
     url: '#contact'
     weight: 40
