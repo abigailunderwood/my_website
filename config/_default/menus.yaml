@@ -21,7 +21,7 @@ main:
     weight: 17
   - name: Presentations
     url: '#presentations'
-    weight: 35
+    weight: 18
   - name: Contact
     url: '#contact'
     weight: 40
